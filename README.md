@@ -1,49 +1,49 @@
-# 1
+# 1: 2ZR-FXE Gasoline Engine
 
 ![](image/parts_chara_1.png)
 
 
-# 2
+# 2: Hybrid Transaxle
 
 ![](image/parts_chara_2.png)
 
 
-# 3
+# 3: High-Voltage Power Converter
 
 ![](image/parts_chara_3.png)
 
 
-# 4
+# 4: Dashboard
 
 ![](image/parts_chara_4.png)
 
 
-# 5
+# 5: Triangular Silhouette
 
 ![](image/parts_chara_5.png)
 
 
-# 6
+# 6: Suspension
 
 ![](image/parts_chara_6.png)
 
 
-# 7
+# 7: Body Rigidity
 
 ![](image/parts_chara_7.png)
 
 
-# 8
+# 8: Toyota Safety Sense (traction control)
 
 ![](image/parts_chara_8.png)
 
 
-# 9
+# 9: Body
 
 ![](image/parts_chara_9.png)
 
 
-# 10
+# 10: Electrical 4WD System
 
 ![](image/parts_chara_10.png)
 
@@ -53,42 +53,42 @@
 ![](image/parts_chara_11.png)
 
 
-# 12
+# 12: Front of the car
 
 ![](image/parts_chara_12.png)
 
 
-# 13
+# 13: Back of the car
 
 ![](image/parts_chara_13.png)
 
 
-# 14
+# 14: Emotional Red color
 
 ![](image/parts_chara_14.png)
 
 
-# 15
+# 15: Thermo-Tect Lime color
 
 ![](image/parts_chara_15.png)
 
 
-# 16
+# 16: Motor/generators
 
 ![](image/parts_chara_16.png)
 
 
-# 17
+# 17: Hybrid Battery
 
 ![](image/parts_chara_17.png)
 
 
-# 18
+# 18: Grill Shutters
 
 ![](image/parts_chara_18.png)
 
 
-# 19
+# 19: Exhaust System
 
 ![](image/parts_chara_19.png)
 
@@ -98,27 +98,27 @@
 ![](image/parts_chara_20.png)
 
 
-# 21
+# 21: LED Headlamps
 
 ![](image/parts_chara_21.png)
 
 
 # 22
 
-not found
+Not found
 
 
-# 23
+# 23: Alloy Wheels
 
 ![](image/parts_chara_23.png)
 
 
-# 24
+# 24: Windshield
 
 ![](image/parts_chara_24.png)
 
 
-# 25
+# 25: "4.2 inch color TFT twin gauges"
 
 ![](image/parts_chara_25.png)
 
@@ -128,17 +128,17 @@ not found
 ![](image/parts_chara_26.png)
 
 
-# 27
+# 27: Steering Wheel
 
 ![](image/parts_chara_27.png)
 
 
-# 28
+# 28: Center of Gravity
 
 ![](image/parts_chara_28.png)
 
 
-# 29
+# 29: Power Outlet
 
 ![](image/parts_chara_29.png)
 
@@ -148,7 +148,7 @@ not found
 ![](image/parts_chara_30.png)
 
 
-# 31
+# 31: Wireless Charging
 
 ![](image/parts_chara_31.png)
 
@@ -168,7 +168,7 @@ not found
 ![](image/parts_chara_34.png)
 
 
-# 35
+# 35: Simple Intelligent Park Assist
 
 ![](image/parts_chara_35.png)
 
@@ -178,7 +178,7 @@ not found
 ![](image/parts_chara_36.png)
 
 
-# 37
+# 37: EV/ECO/PWR Drive Modes?
 
 ![](image/parts_chara_37.png)
 
@@ -188,12 +188,12 @@ not found
 ![](image/parts_chara_38.png)
 
 
-# 39
+# 39: Door Chime
 
 ![](image/parts_chara_39.png)
 
 
-# 40
+# 40: Power Mode
 
 ![](image/parts_chara_40.png)
 
