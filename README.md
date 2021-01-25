@@ -93,7 +93,7 @@
 ![](image/parts_chara_19.png)
 
 
-# 20
+# 20 Windshield Washer?
 
 ![](image/parts_chara_20.png)
 
@@ -105,7 +105,7 @@
 
 # 22
 
-Not found
+Not found 😥
 
 
 # 23: Alloy Wheels
@@ -123,7 +123,7 @@ Not found
 ![](image/parts_chara_25.png)
 
 
-# 26
+# 26: Head-Up Display?
 
 ![](image/parts_chara_26.png)
 
@@ -143,7 +143,7 @@ Not found
 ![](image/parts_chara_29.png)
 
 
-# 30
+# 30 Climate Control System?
 
 ![](image/parts_chara_30.png)
 
@@ -153,17 +153,17 @@ Not found
 ![](image/parts_chara_31.png)
 
 
-# 32
+# 32: Shark-fin Antenna?
 
 ![](image/parts_chara_32.png)
 
 
-# 33
+# 33: Not sure. Stealth mode?
 
 ![](image/parts_chara_33.png)
 
 
-# 34
+# 34: Audio System?
 
 ![](image/parts_chara_34.png)
 
@@ -183,7 +183,7 @@ Not found
 ![](image/parts_chara_37.png)
 
 
-# 38
+# 38: Horns and Indicators?
 
 ![](image/parts_chara_38.png)
 
