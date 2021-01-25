@@ -195,6 +195,6 @@ not found
 
 # 40
 
-![](image/parts_chara_39.png)
+![](image/parts_chara_40.png)
 
 
