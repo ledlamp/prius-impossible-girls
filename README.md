@@ -48,7 +48,7 @@
 ![](image/parts_chara_10.png)
 
 
-# 11
+# 11: Soundproofing Performance
 
 ![](image/parts_chara_11.png)
 
