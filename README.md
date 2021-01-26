@@ -88,7 +88,7 @@
 ![](image/parts_chara_18.png)
 
 
-# 19: Exhaust Gas Reclamation System
+# 19: Exhaust Heat Recovery System
 
 ![](image/parts_chara_19.png)
 
