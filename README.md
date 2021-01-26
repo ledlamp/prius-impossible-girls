@@ -1,4 +1,4 @@
-# 1: 2ZR-FXE Gasoline Engine
+# 1: 2ZR-FXE Engine
 
 ![](characters-cropped/parts_chara_1.png)
 
@@ -103,9 +103,11 @@
 ![](characters-cropped/parts_chara_21.png)
 
 
-# 22
+# 22: Tail Lights
 
-Not found 😥
+This was the only one missing from the website, but I found it on another source.
+
+![](extra/l_569c735846ba9.jpg)
 
 
 # 23: Alloy Wheels
@@ -118,12 +120,12 @@ Not found 😥
 ![](characters-cropped/parts_chara_24.png)
 
 
-# 25: "4.2 inch color TFT twin gauges"
+# 25: 4.2 inch color TFT twin gauges
 
 ![](characters-cropped/parts_chara_25.png)
 
 
-# 26: Head-Up Display?
+# 26: Head-Up Display
 
 ![](characters-cropped/parts_chara_26.png)
 
@@ -138,12 +140,12 @@ Not found 😥
 ![](characters-cropped/parts_chara_28.png)
 
 
-# 29: Power Outlet
+# 29: Accessory Outlet
 
 ![](characters-cropped/parts_chara_29.png)
 
 
-# 30 Climate Control System?
+# 30 S-FLOW (Smart-Flow) Climate Control System
 
 ![](characters-cropped/parts_chara_30.png)
 
@@ -153,7 +155,7 @@ Not found 😥
 ![](characters-cropped/parts_chara_31.png)
 
 
-# 32: Shark-fin Antenna?
+# 32: Aerodynamic Performance
 
 ![](characters-cropped/parts_chara_32.png)
 
@@ -173,12 +175,12 @@ Not found 😥
 ![](characters-cropped/parts_chara_35.png)
 
 
-# 36
+# 36: Hill Start Assist Control
 
 ![](characters-cropped/parts_chara_36.png)
 
 
-# 37: EV/ECO/PWR Drive Modes
+# 37: EV/ECO/PWR Drive Mode Switch
 
 ![](characters-cropped/parts_chara_37.png)
 
@@ -197,4 +199,8 @@ Not found 😥
 
 ![](characters-cropped/parts_chara_40.png)
 
+------------------------------------------
+# Sources
 
+- https://web.archive.org/web/20170608160237/http://toyota.jp/prius/cp/parts
+- https://www.famitsu.com/news/201601/18097435.html
