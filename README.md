@@ -163,7 +163,7 @@ Not found 😥
 ![](image/parts_chara_33.png)
 
 
-# 34: Audio System?
+# 34: Intelligent Clearance Sonar
 
 ![](image/parts_chara_34.png)
 
