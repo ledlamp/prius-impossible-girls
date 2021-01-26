@@ -3,3 +3,4 @@
  - http://www.autahybrydowe.pl/ciekawostki/580-tak-wygladaja-czesci-toyoty-prius-jako-bohaterki-manga/galeria
  - https://twitter.com/ryuuseee/status/689471534981734401
  - https://twitter.com/methyl_key/status/689472090114666496
+ - https://twitter.com/tamak0/status/689468428734754816/
