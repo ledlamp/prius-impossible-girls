@@ -88,7 +88,7 @@
 ![](image/parts_chara_18.png)
 
 
-# 19: Exhaust System
+# 19: Exhaust Gas Reclamation System
 
 ![](image/parts_chara_19.png)
 
@@ -158,7 +158,7 @@ Not found 😥
 ![](image/parts_chara_32.png)
 
 
-# 33: Not sure. Stealth mode?
+# 33: Blind Spot Monitor
 
 ![](image/parts_chara_33.png)
 
