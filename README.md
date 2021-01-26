@@ -23,22 +23,22 @@
 ![](image/parts_chara_5.png)
 
 
-# 6: Suspension
+# 6: Double-Wishbone Suspension
 
 ![](image/parts_chara_6.png)
 
 
-# 7: Body Rigidity
+# 7: High-Rigidity Body
 
 ![](image/parts_chara_7.png)
 
 
-# 8: Toyota Safety Sense (traction control)
+# 8: TSS-P (Toyota Safety Sense)
 
 ![](image/parts_chara_8.png)
 
 
-# 9: Body
+# 9: GOA (Global Outstanding Assessment) Body
 
 ![](image/parts_chara_9.png)
 
