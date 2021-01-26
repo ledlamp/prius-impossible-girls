@@ -107,7 +107,7 @@
 
 This was the only one missing from the website, but I found it on another source.
 
-![](extra/l_569c735846ba9.jpg)
+![](extras/l_569c735846ba9.jpg)
 
 
 # 23: Alloy Wheels
