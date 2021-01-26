@@ -46,7 +46,7 @@
 ![](characters-cropped/parts_chara_9.png)
 
 
-# 10: Electrical 4WD System
+# 10: E-Four (Electrical 4WD System)
 
 ![](characters-cropped/parts_chara_10.png)
 
