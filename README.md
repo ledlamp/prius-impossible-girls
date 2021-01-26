@@ -93,7 +93,7 @@
 ![](image/parts_chara_19.png)
 
 
-# 20 Windshield Washer?
+# 20: Electronic Water Pump
 
 ![](image/parts_chara_20.png)
 
