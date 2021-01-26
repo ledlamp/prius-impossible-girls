@@ -1,3 +1,6 @@
+![PRIUS! IMPOSSIBLE GIRLS](extras/story_illust.jpg)
+
+
 # 1: 2ZR-FXE Engine
 
 ![](characters-cropped/parts_chara_1.png)
