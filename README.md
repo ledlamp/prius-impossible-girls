@@ -178,12 +178,12 @@ Not found 😥
 ![](image/parts_chara_36.png)
 
 
-# 37: EV/ECO/PWR Drive Modes?
+# 37: EV/ECO/PWR Drive Modes
 
 ![](image/parts_chara_37.png)
 
 
-# 38: Horns and Indicators?
+# 38: iTS Connect
 
 ![](image/parts_chara_38.png)
 
