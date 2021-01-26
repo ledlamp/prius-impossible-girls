@@ -48,7 +48,7 @@
 ![](characters-cropped/parts_chara_10.png)
 
 
-# 11
+# 11: Soundproofing Performance
 
 ![](characters-cropped/parts_chara_11.png)
 
@@ -93,7 +93,7 @@
 ![](characters-cropped/parts_chara_19.png)
 
 
-# 20 Windshield Washer?
+# 20: Electronic Water Pump
 
 ![](characters-cropped/parts_chara_20.png)
 
@@ -178,12 +178,12 @@ Not found 😥
 ![](characters-cropped/parts_chara_36.png)
 
 
-# 37: EV/ECO/PWR Drive Modes?
+# 37: EV/ECO/PWR Drive Modes
 
 ![](characters-cropped/parts_chara_37.png)
 
 
-# 38: Horns and Indicators?
+# 38: iTS Connect
 
 ![](characters-cropped/parts_chara_38.png)
 
